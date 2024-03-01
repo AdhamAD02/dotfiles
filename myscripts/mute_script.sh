@@ -1,0 +1,2 @@
+ amixer set Capture toggle
+
