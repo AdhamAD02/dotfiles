@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OUTPUT_DIR="$HOME/Videos"
+OUTPUT_DIR="$HOME/Videos/Screencasts"
 
 FILENAME="recording_$(date +'%Y%m%d_%H%M%S').mp4"
 
@@ -14,9 +14,9 @@ ffmpeg \
     -framerate 60 \
     -f x11grab \
     -i :0.0 \
-    -f pipewire \
+    -f pulse \
     -i 0 \
-    -f pipewire \
+    -f pulse \
     -i 1 \
     -c:v libx264 \
     -c:a aac \
