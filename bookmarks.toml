@@ -1,0 +1,73 @@
+[[links]]
+name = "Youtube"
+url = "https://www.youtube.com/"
+
+[[links]]
+name = "Drive"
+url = "https://drive.google.com/drive/starred"
+
+[[links]]
+name = "Gmail"
+url = "https://mail.google.com/mail/u/0/#inbox"
+
+[[links]]
+name = "Translate"
+url = "https://translate.google.com/?sl=en&tl=ar&op=translate"
+
+[[links]]
+name = "colab"
+url = "https://colab.research.google.com/"
+
+[[links]]
+name = "Huggingface"
+url = "https://huggingface.co/"
+
+[[links]]
+name = "Chatgpt"
+url = "https://chatgpt.com/"
+
+[[links]]
+name = "newecom"
+url = "http://newecom.fci.cu.edu.eg/#/"
+
+[[links]]
+name = "telegram"
+url = "https://web.telegram.org/a/"
+
+
+[[links]]
+name = "kaggle"
+url = "https://www.kaggle.com/"
+
+[[links]]
+name = "whatsapp"
+url = "https://web.whatsapp.com/"
+
+
+[[links]]
+name = "claude"
+url = "https://claude.ai/"
+
+[[links]]
+name = "deepseek"
+url = "https://chat.deepseek.com/"
+
+[[links]]
+name = "notebooklm"
+url = "https://notebooklm.google.com/"
+
+[[links]]
+name = "grok"
+url = "https://grok.com/"
+
+[[links]]
+name = "linkedin"
+url = "https://www.linkedin.com/feed/"
+
+[[links]]
+name = "github"
+url = "https://github.com/AdhamAD02?tab=repositories"
+
+[[links]]
+name = "spotify"
+url = "https://open.spotify.com/collection/tracks"
