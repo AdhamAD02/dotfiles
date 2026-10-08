@@ -1,0 +1,40 @@
+set selection-clipboard primary
+# dark
+set font "monospace 12"
+set default-bg "#070707" #00
+set default-fg "#F7F7F6" #01
+
+set statusbar-fg "#F7F7F6" #04
+set statusbar-bg "#070707" #01
+
+set inputbar-bg "#070707" #00 currently not used
+set inputbar-fg "#FFFFFF" #02
+
+set notification-error-bg "#AC4142" #08
+set notification-error-fg "#151515" #00
+
+set notification-warning-bg "#AC4142" #08
+set notification-warning-fg "#151515" #00
+
+set completion-highlight-fg "#151515" #02
+set completion-highlight-bg "#90A959" #0C
+
+set completion-bg "#303030" #02
+set completion-fg "#E0E0E0" #0C
+
+set notification-bg "#070707" #04
+set notification-fg "#f7f7f7" #01
+
+set recolor "false"
+set recolor-lightcolor "#131515" #00
+set recolor-darkcolor "#FFFFFF" #06
+set recolor-reverse-video "true"
+set recolor-keephue "true"
+
+set render-loading "false"
+set scroll-step 50
+unmap f
+unmap w
+map f toggle_fullscreen
+map w toggle_statusbar
+map [fullscreen] f toggle_fullscreen
