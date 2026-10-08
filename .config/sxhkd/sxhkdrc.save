@@ -1,0 +1,16 @@
+super + Return
+	$TERMINAL
+
+super + f
+	$FILE_MANAGER
+
+super + b
+	$BROWSER
+
+super + v
+	code
+
+super + Escape
+	btop
+
+

@@ -1,0 +1,23 @@
+super + Return
+	$TERMINAL
+
+super + f
+	$FILE_MANAGER
+
+super + b
+	$BROWSER
+
+super + v
+	code
+
+super + Escape
+	$TERMINAL -e btop
+
+super + e
+	$HOME/dotfiles/myscripts/bookmarks
+
+super + alt + BackSpace
+	$HOME/dotfiles/myscripts/power_menu.sh
+
+super + shift +p
+	$HOME/dotfiles/myscripts/conservation_mode.sh
